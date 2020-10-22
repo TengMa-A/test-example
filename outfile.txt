@@ -1,0 +1,7 @@
+file2.php
+file3.php
+one.php
+outfile.txt
+somethingelse.php
+three.PHP
+two.txt
